@@ -1,15 +1,13 @@
 # 👋***Hi, I'm Nithishwar***
 
-***🎓 ELECTRONICS & COMMUNICATION ENGINEERING UNDERGRADUATE*** ||               
-***🏫 SAVEETHA ENGINEERING COLLEGE***  || ***⚡COMMITTED TO ADVANCING IN ELECTRONICS***  ||                     
-***💡 TECH ENTHUSIAST & KNOWLEDGE SEEKER*** 
+### ***🎓 Electronics & Communication Engineering Undergraduate*** || ***🏫 Saveetha Engineering College*** || ***⚡Committed to Advancing in Electronics*** || ***💡 Tech Enthusiast & Knowledge Seeker*** 
 
 ---
 
 # 🧑‍🎓***About Me***  
-***I am a **2nd-year Electronics & Communication Engineering student** passionate about exploring electronics from circuits to embedded architectures.  
-My interests include **IoT 🌐, VLSI 🔬, PCB Design 🔧, Embedded Systems 💻, and Sensors 📡**.  
-I focus on **Arduino projects 🤖, C/Python/Verilog programming 🖥️**, and seek **internships, projects, and collaborations 🚀** for practical exposure.*** 
+### 🌟***I am a **2nd-year Electronics & Communication Engineering student** passionate about exploring electronics from circuits to embedded architectures💻.***  
+### 🌟***My interests include **IoT 🌐, VLSI 🔬, PCB Design 🔧, Embedded Systems 💻, and Sensors 📡**.*** 
+### 🌟***I focus on **Arduino projects 🤖, C/Python/Verilog programming 🖥️**, and seek **internships, projects, and collaborations 🚀** for practical exposure.*** 
 
 ---
 
@@ -33,28 +31,48 @@ I focus on **Arduino projects 🤖, C/Python/Verilog programming 🖥️**, and 
 
 ---
 
-## 🚀***Career Objective***  
-***🎯Aspiring to build a successful career in the **Core Electronics Industry**, with a strong focus on:***  
+# 💼***Experience***  
 
-- **🔧 VLSI Design & Verification**
-- **📟 Embedded Systems Development**  
-- **🖥️ FPGA Prototyping**  
-- **🛠️ RTL Design**  
-- **⚡ ASIC Design & Verification**
-- **📡 Signal Processing & Communication Systems**
-- **🌐 IoT Systems Development** 
-- **🤖 Robotics & Automation**  
-- **🔒 Hardware Security & Cryptographic Engineering**  
-- **⚙️ Analog & Mixed-Signal IC Design**  
-  
+## ***RETECH Solutions Pvt Ltd · Internship*** 
+### ***ROLE : Embedded Systems Intern***  
+#### 📍***Tambaram, Tamil Nadu, India · On-site***  
+#### ***📅 30th June 2025 – 30th July 2025 · 1 Month***  
+
+### ***📌Key Contributions & Learnings:***  
+- #### ***Gained **hands-on experience** in Arduino programming and sensor interfacing, ensuring seamless integration of hardware and software in real-time systems.***  
+- #### ***Explored **Bluetooth communication**, enabling **IoT connectivity** and device interactions.***  
+- #### ***Worked on **computer vision projects** using Python, OpenCV, and Haar Cascade for **real-time face and eye detection**.***  
+- #### ***Developed confidence in working with **IoT and AI-driven technologies**, enhancing problem-solving and innovation skills.***  
+
+### ⚡***Skills:*** *****Arduino IDE · Sensor Interfacing · OpenCV · Python · C***** 
 
 ---
 
-## 📫***Connect With Me***   
+# 🚀***Career Objective***  
+### ***🎯Aspiring to build a successful career in the **Core Electronics Industry**, with a strong focus on:***  
 
+- ***🔧 VLSI Design & Verification***
+- ***📟 Embedded Systems Development***  
+- ***🖥️ FPGA Prototyping***  
+- ***🛠️ RTL Design***  
+- ***⚡ ASIC Design & Verification***
+- ***📡 Signal Processing & Communication Systems***
+- ***🌐 IoT Systems Development*** 
+- ***🤖 Robotics & Automation***   
+- ***⚙️ Analog & Mixed-Signal IC Design***  
+  
+---
+
+# 📫***Connect With Me***  
+### ***📍 Chennai, Tamil Nadu, India***
+### ***🌟Let's connect to discuss technology, innovation, and collaboration opportunities.***
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishwar2709)                    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishwar-p-898488319/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishwar2709@gmail.com)  
-
 ---
 
  ### ✨***Always eager to learn, collaborate, and innovate in the evolving world of electronics!***  
+
+------
