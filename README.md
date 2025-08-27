@@ -23,9 +23,9 @@
  
 
 ## 🛠️Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;&nbsp;
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)  &nbsp;&nbsp;
 ![Vivado](https://img.shields.io/badge/Vivado-FFB300?style=for-the-badge&logo=xilinx&logoColor=black)  &nbsp;&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;&nbsp;
 ![LTSpice](https://img.shields.io/badge/LTSpice-DC143C?style=for-the-badge&logo=analog-devices&logoColor=white)  &nbsp;&nbsp;
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF9900?style=for-the-badge&logo=autodesk&logoColor=white)  &nbsp;
 
