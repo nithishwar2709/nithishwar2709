@@ -1,4 +1,4 @@
-# 👋***Hi, I'm Nithishwar***
+# ***Hello there ! 👋 I'm Nithishwar***
 
 ### ***🎓 Electronics & Communication Engineering Undergraduate*** || ***🏫 Saveetha Engineering College*** || ***⚡Committed to Advancing in Electronics*** || ***💡 Tech Enthusiast & Knowledge Seeker*** 
 
