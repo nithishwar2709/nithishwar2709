@@ -6,7 +6,7 @@
 
 # 🧑‍🎓***About Me***  
 ### 🌟***I am a **2nd-year Electronics & Communication Engineering student** passionate about exploring electronics from circuits to embedded architectures💻.***  
-### 🌟***My interests include **IoT 🌐, VLSI 🔬, PCB Design 🔧, Embedded Systems 💻, and Sensors 📡**.*** 
+### 🌟***My interests include **VLSI Design🔬, Digital System Design using Verilog 💻, Semiconductor Technology 🌐 and   Embedded Systems Development🔧**.*** 
 ### 🌟***I focus on **Arduino projects 🤖, C/Python/Verilog programming 🖥️**, and seek **internships, projects, and collaborations 🚀** for practical exposure.*** 
 
 ---
@@ -24,8 +24,9 @@
 
 ## 🛠️Tools & Platforms  
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)  &nbsp;&nbsp;
-![Vivado](https://img.shields.io/badge/Vivado-FFB300?style=for-the-badge&logo=xilinx&logoColor=black)  &nbsp;&nbsp;
+![Xilinx Vivado](https://img.shields.io/badge/Vivado-FFB300?style=for-the-badge&logo=xilinx&logoColor=black)  &nbsp;&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;&nbsp;
+![Keil μVision5](https://img.shields.io/badge/Verilog%20HDL-orange?style=for-the-badge) &nbsp;&nbsp;
 ![LTSpice](https://img.shields.io/badge/LTSpice-DC143C?style=for-the-badge&logo=analog-devices&logoColor=white)  &nbsp;&nbsp;
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF9900?style=for-the-badge&logo=autodesk&logoColor=white)  &nbsp;
 
@@ -44,7 +45,7 @@
 - #### ***Worked on **computer vision projects** using Python, OpenCV, and Haar Cascade for **real-time face and eye detection**.***  
 - #### ***Developed confidence in working with **IoT and AI-driven technologies**, enhancing problem-solving and innovation skills.***  
 
-### ⚡***Skills:*** *****Arduino IDE · Sensor Interfacing · OpenCV · Python · C***** 
+### ⚡***Skills:*** *****Arduino IDE · Verilog(Xilinx Vivado) ·  Python · C · Sensor Interfacing · OpenCV***** 
 
 ---
 
@@ -52,14 +53,11 @@
 ### ***🎯Aspiring to build a successful career in the **Core Electronics Industry**, with a strong focus on:***  
 
 - ***🔧 VLSI Design & Verification***
-- ***📟 Embedded Systems Development***  
 - ***🖥️ FPGA Prototyping***  
 - ***🛠️ RTL Design***  
 - ***⚡ ASIC Design & Verification***
-- ***📡 Signal Processing & Communication Systems***
-- ***🌐 IoT Systems Development*** 
+- - ***📟 Embedded Systems Development***  
 - ***🤖 Robotics & Automation***   
-- ***⚙️ Analog & Mixed-Signal IC Design***  
   
 ---
 
