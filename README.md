@@ -5,9 +5,9 @@
 ---
 
 # 🧑‍🎓***About Me***  
-### 🌟***I am a **2nd-year Electronics & Communication Engineering student** passionate about exploring electronics from circuits to embedded architectures💻.***  
+### 🌟***I am a **2nd-year Electronics & Communication Engineering student** passionate about VLSI Design, Digital Electronics, and Hardware System Development💻.***  
 ### 🌟***My interests include **VLSI Design🔬, Digital System Design using Verilog 💻, Semiconductor Technology 🌐 and   Embedded Systems Development🔧**.*** 
-### 🌟***I focus on **Arduino projects 🤖, C/Python/Verilog programming 🖥️**, and seek **internships, projects, and collaborations 🚀** for practical exposure.*** 
+### 🌟***I focus on **Digital Electronics projects 🤖, C/Python/Verilog programming 🖥️**, and seek **Internships, Projects, and collaborations 🚀** for practical exposure.*** 
 
 ---
 
@@ -23,10 +23,13 @@
  
 
 ## 🛠️Tools & Platforms  
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)  &nbsp;&nbsp;
-![Xilinx Vivado](https://img.shields.io/badge/Vivado-FFB300?style=for-the-badge&logo=xilinx&logoColor=black)  &nbsp;&nbsp;
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)  &nbsp;&nbsp;![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-purple?style=for-the-badge)
+&nbsp;&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;&nbsp;
-![Keil μVision5](https://img.shields.io/badge/Verilog%20HDL-orange?style=for-the-badge) &nbsp;&nbsp;
+![Keil µVision5](https://img.shields.io/badge/Keil%20%C2%B5Vision5-blue?style=for-the-badge)
+&nbsp;&nbsp;
+![MASM - DOSBox](https://img.shields.io/badge/MASM-DOSBox-darkgreen?style=for-the-badge)
+&nbsp;&nbsp;
 ![LTSpice](https://img.shields.io/badge/LTSpice-DC143C?style=for-the-badge&logo=analog-devices&logoColor=white)  &nbsp;&nbsp;
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF9900?style=for-the-badge&logo=autodesk&logoColor=white)  &nbsp;
 
@@ -45,7 +48,7 @@
 - #### ***Worked on **computer vision projects** using Python, OpenCV, and Haar Cascade for **real-time face and eye detection**.***  
 - #### ***Developed confidence in working with **IoT and AI-driven technologies**, enhancing problem-solving and innovation skills.***  
 
-### ⚡***Skills:*** *****Arduino IDE · Verilog(Xilinx Vivado) ·  Python · C · Sensor Interfacing · OpenCV***** 
+### ⚡***Skills:*** *****Arduino IDE · Python · C · Sensor Interfacing · OpenCV***** 
 
 ---
 
@@ -56,7 +59,7 @@
 - ***🖥️ FPGA Prototyping***  
 - ***🛠️ RTL Design***  
 - ***⚡ ASIC Design & Verification***
-- - ***📟 Embedded Systems Development***  
+- ***📟 Embedded Systems Development***  
 - ***🤖 Robotics & Automation***   
   
 ---
